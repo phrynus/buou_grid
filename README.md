@@ -2,7 +2,7 @@
 ## 视频说明：https://youtu.be/CKlJ4K1rUW0
 
 
-配置说明：
+###### 配置说明：
 COIN_NAME = "XRP"  # 交易币种
 CONTRACT_TYPE = "USDT"  # 合约类型：USDT 或 USDC
 GRID_SPACING = 0.004  # 上下挂单间距 (0.3%)

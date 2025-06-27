@@ -1,0 +1,5 @@
+ccxt==4.2.85
+websockets==12.0
+aiohttp==3.9.3
+asyncio==3.4.3
+python-dotenv==1.0.0

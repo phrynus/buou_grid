@@ -1,5 +1,5 @@
 # buou_grid
-## 视频说明：https://youtu.be/CKlJ4K1rUW0
+## 视频说明：[https://youtu.be/CKlJ4K1rUW0](https://www.youtube.com/watch?v=Jf03Cuq0aFc)
 
 
 ##### 配置说明：
